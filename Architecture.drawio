@@ -121,66 +121,66 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="KnmSBcYOXbLW96R-wTgi-1" value="Required Evidence Documents" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="50" width="260" height="180" as="geometry">
+          <mxGeometry x="40" y="40" width="280" height="180" as="geometry">
             <mxRectangle x="40" y="70" width="210" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KnmSBcYOXbLW96R-wTgi-2" value="2x2 Photos" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="KnmSBcYOXbLW96R-wTgi-1">
-          <mxGeometry y="30" width="260" height="30" as="geometry" />
+          <mxGeometry y="30" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KnmSBcYOXbLW96R-wTgi-3" value="i-94 or Passport" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="KnmSBcYOXbLW96R-wTgi-1">
-          <mxGeometry y="60" width="260" height="30" as="geometry" />
+          <mxGeometry y="60" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KnmSBcYOXbLW96R-wTgi-4" value="EAD" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="KnmSBcYOXbLW96R-wTgi-1">
-          <mxGeometry y="90" width="260" height="30" as="geometry" />
+          <mxGeometry y="90" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KnmSBcYOXbLW96R-wTgi-5" value="Form I-485" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="KnmSBcYOXbLW96R-wTgi-1">
-          <mxGeometry y="120" width="260" height="30" as="geometry" />
+          <mxGeometry y="120" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KnmSBcYOXbLW96R-wTgi-6" value="i-797C Notice of Action (Any supporting docs)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="KnmSBcYOXbLW96R-wTgi-1">
-          <mxGeometry y="150" width="260" height="30" as="geometry" />
+          <mxGeometry y="150" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ahNFqb6qNoi8MXt8lbMv-1" value="I-765 Work Authorization" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="275" y="20" width="250" height="30" as="geometry" />
+          <mxGeometry x="280" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9C3HsH30aQuF1BeE3rDa-10" value="Uncommon Fields" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="40" width="210" height="338" as="geometry" />
+          <mxGeometry x="520" y="40" width="240" height="338" as="geometry" />
         </mxCell>
         <mxCell id="9C3HsH30aQuF1BeE3rDa-11" value="previously_filed" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="9C3HsH30aQuF1BeE3rDa-10">
-          <mxGeometry y="26" width="210" height="26" as="geometry" />
+          <mxGeometry y="26" width="240" height="26" as="geometry" />
         </mxCell>
         <mxCell id="9C3HsH30aQuF1BeE3rDa-12" value="sevis_number" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="9C3HsH30aQuF1BeE3rDa-10">
-          <mxGeometry y="52" width="210" height="26" as="geometry" />
+          <mxGeometry y="52" width="240" height="26" as="geometry" />
         </mxCell>
         <mxCell id="9C3HsH30aQuF1BeE3rDa-13" value="eligibility_category" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="9C3HsH30aQuF1BeE3rDa-10">
-          <mxGeometry y="78" width="210" height="26" as="geometry" />
+          <mxGeometry y="78" width="240" height="26" as="geometry" />
         </mxCell>
         <mxCell id="9C3HsH30aQuF1BeE3rDa-24" value="degree" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="9C3HsH30aQuF1BeE3rDa-10">
-          <mxGeometry y="104" width="210" height="26" as="geometry" />
+          <mxGeometry y="104" width="240" height="26" as="geometry" />
         </mxCell>
         <mxCell id="9C3HsH30aQuF1BeE3rDa-16" value="employer_name" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="9C3HsH30aQuF1BeE3rDa-10">
-          <mxGeometry y="130" width="210" height="26" as="geometry" />
+          <mxGeometry y="130" width="240" height="26" as="geometry" />
         </mxCell>
         <mxCell id="9C3HsH30aQuF1BeE3rDa-17" value="employer_e_verify_number" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="9C3HsH30aQuF1BeE3rDa-10">
-          <mxGeometry y="156" width="210" height="26" as="geometry" />
+          <mxGeometry y="156" width="240" height="26" as="geometry" />
         </mxCell>
         <mxCell id="9C3HsH30aQuF1BeE3rDa-18" value="form_i129_receipt_number" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="9C3HsH30aQuF1BeE3rDa-10">
-          <mxGeometry y="182" width="210" height="26" as="geometry" />
+          <mxGeometry y="182" width="240" height="26" as="geometry" />
         </mxCell>
         <mxCell id="9C3HsH30aQuF1BeE3rDa-19" value="q30_crime_committed" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="9C3HsH30aQuF1BeE3rDa-10">
-          <mxGeometry y="208" width="210" height="26" as="geometry" />
+          <mxGeometry y="208" width="240" height="26" as="geometry" />
         </mxCell>
         <mxCell id="9C3HsH30aQuF1BeE3rDa-20" value="q31_a_receipt_number" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="9C3HsH30aQuF1BeE3rDa-10">
-          <mxGeometry y="234" width="210" height="26" as="geometry" />
+          <mxGeometry y="234" width="240" height="26" as="geometry" />
         </mxCell>
         <mxCell id="9C3HsH30aQuF1BeE3rDa-21" value="q31_b_crime_committed" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="9C3HsH30aQuF1BeE3rDa-10">
-          <mxGeometry y="260" width="210" height="26" as="geometry" />
+          <mxGeometry y="260" width="240" height="26" as="geometry" />
         </mxCell>
         <mxCell id="9C3HsH30aQuF1BeE3rDa-22" value="is_salvador_guatemala" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="9C3HsH30aQuF1BeE3rDa-10">
-          <mxGeometry y="286" width="210" height="26" as="geometry" />
+          <mxGeometry y="286" width="240" height="26" as="geometry" />
         </mxCell>
         <mxCell id="9C3HsH30aQuF1BeE3rDa-23" value="date_of_sign" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="9C3HsH30aQuF1BeE3rDa-10">
-          <mxGeometry y="312" width="210" height="26" as="geometry" />
+          <mxGeometry y="312" width="240" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
